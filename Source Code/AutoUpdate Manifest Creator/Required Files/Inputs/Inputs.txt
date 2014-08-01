@@ -1,0 +1,10 @@
+application_name = AutoUpdate Manifest Creator
+application_excutable = AutoUpdate.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 2
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = FFFFFF
+application_forecolour = F02715
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe
