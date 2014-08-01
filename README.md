@@ -1,4 +1,4 @@
-AutoUpdate-Manifest-Creator
+AutoUpdate Manifest Creator
 ===========================
 
 Manifest Creator is used to generate the XML manifest required by the AutoUpdate application when attempting to update a particular program. The manifest is basically a UTF-8 encoded XML recursive file listing of all the files present in the program's startup folder.
